@@ -1,0 +1,37 @@
+
+body{
+    background-color: #b9adad;
+}
+.profile{
+    background:green;
+    flex: 2;
+    display: flex;
+    border: 1px solid #000;
+    color: #fff;
+    height:100%;
+    width: 50%;
+    margin: 50px;
+    border: none;
+    
+}
+img{
+    border-radius: 100%;
+    width: 100px;
+    height:100px;
+    justify-content:start;
+    border: 2px solid orange;
+    margin: 10px;
+
+}
+aside{
+    display: flex;
+    flex: 1;
+    background-color: aliceblue;
+    border:5px solid beige;
+    width: 400px;
+    height: 100px;
+    
+    margin-top: 60px;
+    border-radius: 20px;
+
+}
